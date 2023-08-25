@@ -1,3 +1,11 @@
-function CountryDetails() {}
+import React from 'react'
 
-export default CountryDetails;
+const CountryDetailsPage = () => {
+  return (
+    <div>CountryDetailsPage</div>
+  )
+}
+
+export default CountryDetailsPage
+
+
